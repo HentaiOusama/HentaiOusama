@@ -1,13 +1,10 @@
+<img src="https://telegra.ph/file/37ba028829b52402cab4e.gif" align="center">
+
 ### Kon'nichiwa Gojin<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Sessha wa Hentai Ou de Gozaru
 
-<img src="https://telegra.ph/file/37ba028829b52402cab4e.gif" align="right">
-
-- 🔭  I’m currently working on Flutter and Native development🙃.
-- 🌱  I’m currently learning Flutter,Javascript and Kotlin💖.
-- 👯  I’m looking to collaborate on Flutter,Android and Open Source Projects🙂.
-- 💬  Ask me about Flutter,Cybersecurity,Android or any tech related stuffs😇.
-- 📫  How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-RishikaSwaraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishika-swaraj-0755561a2/)](https://www.linkedin.com/in/harshil-jain-000/)
-[![Gmail Badge](https://img.shields.io/badge/-rishikaswaraj237@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kutabare.eerito@gmail.com)](mailto:rishikaswaraj237@gmail.com)
+<!-- To be Filled -->
+- 📫  Want to reach out to me:  [![Linkedin Badge](https://img.shields.io/badge/-RishikaSwaraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshil-jain-000/)](https://www.linkedin.com/in/harshil-jain-000/)
+[![Gmail Badge](https://img.shields.io/badge/-kutabare.eerito@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kutabare.eerito@gmail.com)](mailto:kutabare.eerito@gmail.com)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
