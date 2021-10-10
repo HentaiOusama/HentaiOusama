@@ -1,9 +1,11 @@
-<img src="https://telegra.ph/file/37ba028829b52402cab4e.gif" align="center">
+<p align="center">
+  <img src="https://telegra.ph/file/37ba028829b52402cab4e.gif">
+</p>
 
-### Kon'nichiwa Gojin<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Sessha wa Hentai Ou de Gozaru
+### Kon'nichiwa Gojin<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! Sessha wa Hentai Ou de Gozaru
 
 <!-- To be Filled -->
-- 📫  Want to reach out to me:  [![Linkedin Badge](https://img.shields.io/badge/-RishikaSwaraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshil-jain-000/)](https://www.linkedin.com/in/harshil-jain-000/)
+- 📫  Want to reach out to me:  [![Linkedin Badge](https://img.shields.io/badge/-Harshil%20Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshil-jain-000/)](https://www.linkedin.com/in/harshil-jain-000/)
 [![Gmail Badge](https://img.shields.io/badge/-kutabare.eerito@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kutabare.eerito@gmail.com)](mailto:kutabare.eerito@gmail.com)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
