@@ -30,7 +30,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## &#x1f4c8; GitHub Stats
-![Sessha no GitHub stats](https://github-readme-stats.vercel.app/api?username=HentaiOusama&theme=radical&show_icons=true) ![Hentai Ou](https://github-readme-stats.vercel.app/api/top-langs/?username=HentaiOusama&hide=java,html,tex&layout=compact&theme=radical)
+![Sessha no GitHub stats](https://github-readme-stats.vercel.app/api?username=HentaiOusama&theme=radical&show_icons=true) ![Hentai Ou](https://github-readme-stats.vercel.app/api/top-langs/?username=HentaiOusama&hide=java,html,tex&layout=compact&theme=radical&langs_count=8)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
