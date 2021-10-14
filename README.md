@@ -9,10 +9,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-kutabare.eerito@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kutabare.eerito@gmail.com)](mailto:kutabare.eerito@gmail.com)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Rishika Swaraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=HentaiOusama&theme=react-dark&hide_border=true&area=true)
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🔧 Tools & Technologies 
 ![](https://img.shields.io/badge/IDE-JetBrains-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -34,9 +30,8 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## &#x1f4c8; GitHub Stats
-<a  href="https://github.com/HentaiOusama/github-readme-stats">
-<img align="center" src= "https://github-readme-stats.vercel.app/api?username=HentaiOusama&&show_icons=true&title_color=merko&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-</a>
-<a href="https://github.com/HentaiOusama/HentaiOusama">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HentaiOusama&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
+![Sessha no GitHub stats](https://github-readme-stats.vercel.app/api?username=HentaiOusama&theme=radical&show_icons=true) ![Hentai Ou](https://github-readme-stats.vercel.app/api/top-langs/?username=HentaiOusama&hide=java,html,tex&layout=compact&theme=radical)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Sessha no github activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HentaiOusama&theme=monokai)
