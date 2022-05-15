@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/37ba028829b52402cab4e.gif">
 </p>
 
-<h2 align="center">Kon'nichiwa Gojin! Sessha wa Hentai Ou de Gozaru</h2>
+<h2 align="center">Kon'nichiwa Gojin! Sessha wa Hikaru Hokkyokusei de Gozaru</h2>
 
 <!-- To be Filled -->
 - 📫  Want to reach out to me:  [![Linkedin Badge](https://img.shields.io/badge/-Harshil%20Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshil-jain-000/)](https://www.linkedin.com/in/harshil-jain-000/)
@@ -24,14 +24,14 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HentaiOusama&theme=dark&hide_border=true")](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HikaruHokkyokusei&theme=dark&hide_border=true")](https://git.io/streak-stats)
 
-![Visitors Batch](https://visitor-badge.laobi.icu/badge?page_id=HentaiOusama.HentaiOusama)
+![Visitors Batch](https://visitor-badge.laobi.icu/badge?page_id=HikaruHokkyokusei.HikaruHokkyokusei)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## &#x1f4c8; GitHub Stats
-![Sessha no GitHub stats](https://github-readme-stats.vercel.app/api?username=HentaiOusama&theme=radical&show_icons=true) ![Hentai Ou](https://github-readme-stats.vercel.app/api/top-langs/?username=HentaiOusama&hide=java,html,tex&layout=compact&theme=radical&langs_count=8)
+![Sessha no GitHub stats](https://github-readme-stats.vercel.app/api?username=HikaruHokkyokusei&theme=radical&show_icons=true) ![HikaruHokkyokusei](https://github-readme-stats.vercel.app/api/top-langs/?username=HikaruHokkyokusei&hide=java,html,tex&layout=compact&theme=radical&langs_count=8)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Sessha no github activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HentaiOusama&theme=monokai)
+![Sessha no github activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HikaruHokkyokusei&theme=monokai)
